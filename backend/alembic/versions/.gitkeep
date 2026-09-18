@@ -1,0 +1,4 @@
+# alembic/versions/.gitkeep
+# This directory holds generated migration files.
+# It is intentionally empty — Alembic will populate it when you run:
+#   alembic revision --autogenerate -m "initial schema"
